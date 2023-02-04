@@ -21,3 +21,4 @@ The main thing we learned was how azure worked and how models could easily be tr
 
 ## What's next for Mind Check
 The main thing in the future for Mind Check is to improve the chatbot and the ability for the app to read a user's social media posts on receiving his convent# Mind-Check
+# Mind-Check
