@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36884012671",
+    "project_id": "mind-check-8a21f",
+    "storage_bucket": "mind-check-8a21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36884012671:android:096ac4ae94bb6fb14d294a",
+        "android_client_info": {
+          "package_name": "com.example.mind_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36884012671-1fd23ivll7qfq8alhfk17m9p3bu946g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZt0J2zhFfOFdrIyqe-UrezQoKJgaP08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36884012671-1fd23ivll7qfq8alhfk17m9p3bu946g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
